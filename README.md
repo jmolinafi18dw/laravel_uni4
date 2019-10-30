@@ -3,7 +3,7 @@
 ### Realizar en éste proyecto las siguientes tareas:
 
 Modifica la vista principal (o crea una nueva) de tal manera que vayas añadiendo los enlaces correspondientes a cada ejercicio.
-Todos los ejercicios tienen que estar disponibles al mismo tiempo.
+Todas tareas tienen que estar disponibles al mismo tiempo.
 
 **Tarea 4.1 Rutas y Vistas**
 * a) Crea una ruta (contacto) para acceder a tus datos personales.

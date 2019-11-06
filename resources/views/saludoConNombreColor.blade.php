@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-   <h1>Este es el artículo numero <?php echo $identificador; ?>.</h1> 
+   <span style="color:#<?php echo($color); ?>;">Kaixo <?php echo($nombre);?>!</span>
   </body>
 </html>
